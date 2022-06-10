@@ -1,4 +1,4 @@
-# SpaceX-Data-Science-Project
+# SpaceX-Data-Science-Capstone
 Deric Green
 
-A data science exploration of SpaceX reusable rockets. Created in for part of completion requirements for IBM Data Science Proffesional Certificate.
+A data science exploration of SpaceX reusable rockets. Created in for part of completion requirements for IBM Data Science Professional Certificate.
